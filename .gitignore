@@ -1,6 +1,13 @@
 # Compiled class file
 *.class
 
+# Files 
+app.js
+data.js
+style.css
+index.html
+
+
 # Log file
 *.log
 
