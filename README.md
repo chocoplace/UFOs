@@ -1,7 +1,7 @@
 # **UFOs**
 
 ## Overview of the analysis: 
-Create a dashboard page in HTML where a table of  UFO data is stored, organized and filtered from a JavaScript array. For the project I needed to apply Bootstrap and HTML skills for visualizations.
+Create a webpage in HTML where a dynamic table of  UFO data is stored, organized and filtered from a JavaScript array. For the project I applied Bootstrap and HTML skills for visualizations.
 
 ### Resources
 
