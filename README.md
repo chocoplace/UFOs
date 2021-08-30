@@ -21,6 +21,12 @@ The code was refactored to show four additional filters in total the user will h
 
 The webpage will be updated automatically with the search criteria after pressing "Enter". 
 
+![Example2](https://github.com/chocoplace/UFOs/blob/main/static/images/Example_2.png)
 
-Finally, to clear the filter data for a new search, the user will have to erase the information provided and press “Enter” to start over.
+![Example3](https://github.com/chocoplace/UFOs/blob/main/static/images/Example_3.png)
+
+Finally, to clear the filter data to conduct a new search, the user will have to erase the information provided and press “Enter” to start over.
+
+![Example1](https://github.com/chocoplace/UFOs/blob/main/static/images/Result_challenge_code.png)
+
 
